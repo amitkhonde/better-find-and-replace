@@ -1,11 +1,12 @@
 {
 	"name": "better-find-and-replace",
 	"displayName": "Better Find and Replace",
-	"description": "Find and replace for selected text",
+	"description": "Find and replace for selected text in VSCode",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.53.0"
 	},
+	"publisher": "amitkhonde",
 	"categories": [
 		"Other"
 	],
