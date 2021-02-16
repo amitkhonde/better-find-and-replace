@@ -9,7 +9,7 @@ A Visual Studio Code extension for finding and replacing in selected text range.
  * Enter text to replace
 
 ## Demo
-![Better Find and Replace Demo](https://gifyu.com/image/VZCU)
+![Better Find and Replace Demo](https://s2.gifyu.com/images/2021-02-16-21.35.09.gif)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
