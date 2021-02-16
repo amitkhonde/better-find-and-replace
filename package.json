@@ -7,6 +7,10 @@
 		"vscode": "^1.53.0"
 	},
 	"publisher": "amitkhonde",
+	"repository": {
+		"type": "git",
+    "url": "https://github.com/amitkhonde/better-find-and-replace"
+	},
 	"categories": [
 		"Other"
 	],
